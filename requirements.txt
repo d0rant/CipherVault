@@ -1,0 +1,12 @@
+# requirements.txt
+
+# Python version
+#python>=3.8
+
+# Tkinter (GUI framework) - comes with Python,
+# but may need to be installed separately on some systems (e.g., Linux)
+#tk
+
+# Install pybase64
+# write in cmd   pip install pybase64
+# No extra dependencies required
